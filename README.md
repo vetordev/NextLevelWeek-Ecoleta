@@ -29,7 +29,7 @@ Ecoleta foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Ecoleta é um projeto que visa ajudar os cidadãos a descartar de maneira mais fácil e correta seu lixo.
+O Ecoleta é um projeto que visa ajudar as pessoas a descartar de maneira mais fácil e correta seu lixo.
 
 ## 🔖 Layout
 
