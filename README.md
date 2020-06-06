@@ -2,9 +2,8 @@
   <img src="./web/src/assets/logo.svg" alt="Ecoleta" width="200px">
 </h1>
 <h4 align="center">
-  🚀 NEXT LEVEL WEEK 1.0
+  🚀 NEXT LEVEL WEEK 1.0 
 </h4>
-
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -34,3 +33,6 @@ O Ecoleta é um projeto que visa ajudar as pessoas a descartar de maneira mais f
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+
+---
+Meus sinceros agradecimentos a [Rocketseat](https://rocketseat.com.br/) por tornar meus objetivos como programador cada vez mais próximos.
